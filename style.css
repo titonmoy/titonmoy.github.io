@@ -1,0 +1,64 @@
+h1, h2, h3, h4, h5, h6, p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  font-size: 24px;
+}
+
+h2{
+  font-size: 20px;
+}
+
+h3{
+  font-size: 16px;
+}
+
+p{
+  font-size: 14px;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.side{
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  justify-content: space-between;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: SlateGrey;
+  color: White;
+}
+
+.main{
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: White;
+  color: #000080;
+}
+
+.img_round{
+  border-radius: 50%;
+}
+
+td{
+  vertical-align: middle;
+}
+
+li{
+  margin: 5px 0;
+}
