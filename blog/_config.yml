@@ -43,6 +43,7 @@ paginate_path: "page:num"
 
 highlighter: rouge
 markdown: kramdown
+theme: EasyBook
 
 # https://jekyllrb.com/docs/configuration/#precedence
 defaults:
