@@ -4,43 +4,30 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello!  I'm Thamidul Islam Tonmoy. I'm a Research Assistant in DSP Research Lab, BUET. My research interests lie in the areas of image and signal processing. I am particularly  interested in applying the knowledge of computer vision and deep learning in biomedical image and signal processing to develop biomedical imaging techniques for more robust computer aided diagnosis system.</p>
 
-<h2>Skills</h2>
 
+<h2>Education</h2>
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>B.Sc.(EEE) - Bangladesh University of Engineering & Technology (BUET), Dhaka, Bangladesh</li>
+	<li>HSC - Notre Dame College, Dhaka, Bangladesh</li>
+	<li>SSC - Motijheel Model High School & College, Dhaka, Bangladesh</li>
 </ul>
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<h2>Research Experience</h2>
+<ol reversed>
+        <li><p><b>Image Processing with Convolutional Neural Network</b> (on going)<br>
+          In this research, we are trying to remove noise/artifacts introduced by adverse environmental condition during capturing image using convolutional neural network.</p></li>
+        <li><p><b>Traffic Sign Detection and Recognition</b><br>
+          Worked on the winning model of IEEE VIP Cup 2017 to enhance the robustness of the detection system which uses state of the art neural networks to tackle the challenge.</p></li>
+        <li><p><b>Breast Cancer Classification from Histopathological Image</b><br>
+          In this undergrad thesis research, we explored the power of deep neural networks in two different domains (image and DCT) to classify breast histopathological images.</p></li>
+</ol>
+
+
+<h2>Publications</h2>
+<ol>
+        <li><p>U. Kamal, <b>T. I. Tonmoy</b>, S. Das, and M. K. Hasan, "<i>Automatic Traffic Sign Detection and Recognition Using SegU-Net and a Modified Tversky Loss Function with L1-Constraint</i>", Submitted in IEEE Trans. Intell. Transp. Syst., July 2018.</p></li>
+</ol>
