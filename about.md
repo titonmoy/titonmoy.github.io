@@ -18,11 +18,11 @@ layout: page
 
 <h2>Research Experience</h2>
 <ol reversed>
-        <li value=3><p><b>Image Processing with Convolutional Neural Network</b> (on going)<br>
+        <li><p><b>Image Processing with Convolutional Neural Network</b> (on going)<br>
           In this research, we are trying to remove noise/artifacts introduced by adverse environmental condition during capturing image using convolutional neural network.</p></li>
-        <li value=2><p><b>Traffic Sign Detection and Recognition</b><br>
+        <li><p><b>Traffic Sign Detection and Recognition</b><br>
           Worked on the winning model of IEEE VIP Cup 2017 to enhance the robustness of the detection system which uses state of the art neural networks to tackle the challenge.</p></li>
-        <li value=1><p><b>Breast Cancer Classification from Histopathological Image</b><br>
+        <li><p><b>Breast Cancer Classification from Histopathological Image</b><br>
           In this undergrad thesis research, we explored the power of deep neural networks in two different domains (image and DCT) to classify breast histopathological images.</p></li>
 </ol>
 
