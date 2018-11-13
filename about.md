@@ -10,9 +10,9 @@ layout: page
 
 <h2>Education</h2>
 <ul class="skill-list">
-	<li>B.Sc.(EEE) - Bangladesh University of Engineering & Technology (BUET), Dhaka, Bangladesh</li>
-	<li>HSC - Notre Dame College, Dhaka, Bangladesh</li>
-	<li>SSC - Motijheel Model High School & College, Dhaka, Bangladesh</li>
+	<li>B.Sc.(EEE) - Bangladesh University of Engineering & Technology, 2017</li>
+	<li>HSC - Notre Dame College, 2012</li>
+	<li>SSC - Motijheel Model High School & College, 2010</li>
 </ul>
 
 
