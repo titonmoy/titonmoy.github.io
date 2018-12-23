@@ -18,8 +18,8 @@ layout: page
 
 <h2>Research Experience</h2>
 <ol reversed>
-        <li><p><b>Image Processing with Convolutional Neural Network</b> (on going)<br>
-          In this research, we are trying to remove noise/artifacts introduced by adverse environmental condition during capturing image using convolutional neural network.</p></li>
+        <li><p><b>Breast Lesion Classification from Ultrasound Image</b> (on going)<br>
+          In this research, we are trying to classify breast lesion from B-mode ultrasound image using convolutional neural network.</p></li>
         <li><p><b>Traffic Sign Detection and Recognition</b><br>
           Worked on the winning model of IEEE VIP Cup 2017 to enhance the robustness of the detection system which uses state of the art neural networks to tackle the challenge.</p></li>
         <li><p><b>Breast Cancer Classification from Histopathological Image</b><br>
