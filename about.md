@@ -34,4 +34,4 @@ layout: page
 
 
 <h2>CV</h2>
-<p>Download <a href='/assets/CV_Tonmoy.pdf'>CV</a></p>
+<p>Download <a href='/assets/CV_TONMOY.pdf'>CV</a></p>
