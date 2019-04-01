@@ -16,20 +16,19 @@ layout: page
 </ul>
 
 
-<h2>Research Experience</h2>
+<h2>Research Projects</h2>
 <ol reversed>
-        <li><p><b>Breast Lesion Classification from Ultrasound Image</b> (on going)<br>
-          In this research, we are trying to classify breast lesion from B-mode ultrasound image using convolutional neural network.</p></li>
-        <li><p><b>Traffic Sign Detection and Recognition</b><br>
-          Worked on the winning model of IEEE VIP Cup 2017 to enhance the robustness of the detection system which uses state of the art neural networks to tackle the challenge.</p></li>
-        <li><p><b>Breast Cancer Classification from Histopathological Image</b><br>
-          In this undergrad thesis research, we explored the power of deep neural networks in two different domains (image and DCT) to classify breast histopathological images.</p></li>
+        <li><p><b>Breast Lesion Classification from Ultrasound Image</b> (on going)</p></li>
+	<li><p><b>Camera Model Identification</b><br></p></li>
+        <li><p><b>Traffic Sign Detection and Recognition</b></p></li>
+        <li><p><b>Breast Cancer Classification from Histopathological Image</b></p></li>
 </ol>
 
 
 <h2>Publications</h2>
 <ol>
-        <li><p>U. Kamal, <b>T. I. Tonmoy</b>, S. Das, and M. K. Hasan, "<i>Automatic Traffic Sign Detection and Recognition Using SegU-Net and a Modified Tversky Loss Function with L1-Constraint</i>", Submitted in IEEE Trans. Intell. Transp. Syst., July 2018.</p></li>
+        <li><p>Uday Kamal, <b>Thamidul Islam Tonmoy</b>, Sowmitra Das, and Md. Kamrul Hasan, "<i>Automatic Traffic Sign Detection and Recognition Using SegU-Net and a Modified Tversky Loss Function with L1-Constraint</i>", Accepted in IEEE Transactions on Intelligent Transportation Systems.</p></li>
+	<li><p>Abdul Muntakim Rafi, <b>Thamidul Islam Tonmoy</b>, Uday Kamal, Rakibul Hoque, and Md Hasan. "RemNet: Remnant Convolutional Neural Network for Camera Model Identification." <a href='https://arxiv.org/abs/1902.00694>'arXiv preprint arXiv:1902.00694</a> (2019).</p></li>
 </ol>
 
 
