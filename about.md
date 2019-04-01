@@ -27,8 +27,8 @@ layout: page
 
 <h2>Publications</h2>
 <ol>
-        <li><p>Uday Kamal, <b>Thamidul Islam Tonmoy</b>, Sowmitra Das, and Md. Kamrul Hasan, "<i>Automatic Traffic Sign Detection and Recognition Using SegU-Net and a Modified Tversky Loss Function with L1-Constraint</i>", Accepted in IEEE Transactions on Intelligent Transportation Systems.</p></li>
-	<li><p>Abdul Muntakim Rafi, <b>Thamidul Islam Tonmoy</b>, Uday Kamal, Rakibul Hoque, and Md Hasan. "RemNet: Remnant Convolutional Neural Network for Camera Model Identification." <a href='https://arxiv.org/abs/1902.00694'>arXiv preprint arXiv:1902.00694</a> (2019).</p></li>
+        <li><p>Uday Kamal, <i>Thamidul Islam Tonmoy</i>, Sowmitra Das, and Md. Kamrul Hasan, "<b><i>Automatic Traffic Sign Detection and Recognition Using SegU-Net and a Modified Tversky Loss Function with L1-Constraint</i></b>", Accepted in IEEE Transactions on Intelligent Transportation Systems.</p></li>
+	<li><p>Abdul Muntakim Rafi, <i>Thamidul Islam Tonmoy</i>, Uday Kamal, Rakibul Hoque, and Md Hasan. "<b><i>RemNet: Remnant Convolutional Neural Network for Camera Model Identification</i></b>", <a href='https://arxiv.org/abs/1902.00694'>arXiv preprint arXiv:1902.00694</a> (2019).</p></li>
 </ol>
 
 
