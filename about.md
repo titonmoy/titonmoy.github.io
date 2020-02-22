@@ -5,7 +5,9 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 
-<p>Hello!  I'm Thamidul Islam Tonmoy. I'm currently a 1st year Ph.D. student at the Unversity of California, Riverside. Before starting my graduate study, I worked as a Research Assistant in DSP Research Lab, BUET. My research interests lie in the areas of image and signal processing. I am particularly  interested in applying the knowledge of computer vision and deep learning in biomedical image and signal processing to develop medical image analysis techniques for more robust computer aided diagnosis system.</p>
+<p>Hello!  I'm Thamidul Islam Tonmoy. I'm a 1st year Ph.D. student at the Unversity of California, Riverside. Currently I am working under <a href='https://hylepark.com/'>Professor Hyle Park</a> as a Graduate Student Researcher. Before starting my graduate study, I worked as a Research Assistant in DSP Research Lab, BUET.</p>
+
+<p>My research interest lie in the area of biomedical image processing. I am particularly  interested in applying the knowledge of signal processing and deep learning in biomedical image processing to develop medical imaging techniques.</p>
 
 
 <h2>Education</h2>
