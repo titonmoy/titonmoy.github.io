@@ -8364,15 +8364,15 @@ a.text-dark:hover, a.text-dark:focus {
 	padding-right: 25px;
 }
 
-.education {
-	background-color: lightgrey;
+.experience {
+  background-color: lightgrey;
 	padding-top: 25px;
 	padding-bottom: 25px;
 	padding-left: 25px;
 	padding-right: 25px;
 }
 
-.experience {
+.education {
 	padding-top: 25px;
 	padding-bottom: 25px;
 	padding-left: 25px;
